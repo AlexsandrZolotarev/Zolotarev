@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Zolotarev/static/css/main.5c3dd2bd.css",
+    "main.js": "/Zolotarev/static/js/main.0c347e78.js",
+    "static/media/i.webp": "/Zolotarev/static/media/i.409214dd1cdfe9dddd8d.webp",
+    "index.html": "/Zolotarev/index.html",
+    "main.5c3dd2bd.css.map": "/Zolotarev/static/css/main.5c3dd2bd.css.map",
+    "main.0c347e78.js.map": "/Zolotarev/static/js/main.0c347e78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c3dd2bd.css",
+    "static/js/main.0c347e78.js"
+  ]
+}
